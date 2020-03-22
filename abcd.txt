@@ -1,1 +1,2 @@
 This is a test file add to Remote Repository.
+Work flow is working as expected from WorkspaceDirectory to StagingArea to Local Repository to Remote Repository. 
